@@ -78,9 +78,7 @@
                         this.msg=res.data;
                     }
                 ).catch(
-                    err=>{
-                        this.msg=err;
-                    }
+                   
                 )
             }
         }
